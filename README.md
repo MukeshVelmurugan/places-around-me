@@ -65,7 +65,7 @@ bus.html
 </body>
 </html>
 
-colege.html
+college.html
 
 <!DOCTYPE html>
 <html lang="en">
@@ -170,15 +170,15 @@ Pandi kovil was located in madurai, the main lord of this temple "pandi muniswar
 ```
 
 ## Output:
-![op](./ss/op1)
-![op](./ss/op2)
-![op](./ss/op3)
-![op](./ss/op4)
-![op](./ss/op5)
-![op](./ss/op6)
+![op](./ss/op1.png)
+![op](./ss/op2.png)
+![op](./ss/op3.png)
+![op](./ss/op4.png)
+![op](./ss/op5.png)
+![op](./ss/op6.png)
 
 ## HTML Validator:
-![op](./ss/valid)
+![op](./ss/valid.png)
 
 
 ## Result:

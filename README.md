@@ -170,15 +170,14 @@ Pandi kovil was located in madurai, the main lord of this temple "pandi muniswar
 ```
 
 ## Output:
-![op](./ss/op1.png)
-![op](./ss/op2.png)
-![op](./ss/op3.png)
-![op](./ss/op4.png)
-![op](./ss/op5.png)
-![op](./ss/op6.png)
+![op1](https://user-images.githubusercontent.com/118707363/213169472-1708fd28-13ab-4b60-ba03-f78a2146eabb.png)
+![op2](https://user-images.githubusercontent.com/118707363/213169517-c4ea00e6-1d5e-4234-b07d-d21a079055f3.png)
+![op3](https://user-images.githubusercontent.com/118707363/213169528-4544157a-aff7-44d0-836a-de0acc2c612c.png)
+![op4](https://user-images.githubusercontent.com/118707363/213169536-6faf7906-9738-40e6-a438-e62b096e831c.png)
+![op5](https://user-images.githubusercontent.com/118707363/213169555-918e46bd-02ca-4be4-8c26-5c07cb7fa40f.png)
+![op6](https://user-images.githubusercontent.com/118707363/213169564-0d467ce3-156a-4b0b-8d68-9eb0912cb2b3.png)
+![valid](https://user-images.githubusercontent.com/118707363/213169575-56f1fa0d-0bd0-4c24-af9b-62978e9928a0.png)
 
-## HTML Validator:
-![op](./ss/valid.png)
 
 
 ## Result:

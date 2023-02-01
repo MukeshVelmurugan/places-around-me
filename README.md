@@ -13,7 +13,7 @@ Write the needed HTML code.
 ### Step 4:
 Run the Django server and execute the HTMLfiles.
 ## Code:
-```
+``` html
 map.html
 
 <!DOCTYPE html>
